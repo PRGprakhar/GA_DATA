@@ -1,6 +1,6 @@
 from __future__ import print_function
 
-__author__ = 'gowtham.patnaik@publicissapient.com'
+__author__ = 'prakhar.gupta1@publicisgroupe.com'
 
 import argparse
 import sys
